@@ -29,3 +29,4 @@ If you see `RESOURCE_EXHAUSTED` or `Quota exceeded`:
 - Check your active limits in AI Studio rate limits
 - Ensure billing/tier is enabled for the project if your free-tier limit is 0
 - Use a lower-cost/default model in `.env.local`, e.g. `GEMINI_MODEL=gemini-2.5-flash`
+# ai-software-engineer-agent
