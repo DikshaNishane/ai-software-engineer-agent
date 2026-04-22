@@ -1,0 +1,6 @@
+{
+  "name": "AI Software Engineer Agent",
+  "description": "An autonomous AI coding agent that can generate, test, and debug code from a natural language requirement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
